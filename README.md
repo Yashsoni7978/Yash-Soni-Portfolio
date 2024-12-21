@@ -1,6 +1,6 @@
 # Yash Soni's Enhanced Portfolio  
 
-Check out the live demo of the website [here](https://yashsoni7978.github.io/NewPortfolio).  
+Check out the live demo of the website [here](https://yashsoni7978.github.io/Yashsoniportfolio/).  
 
 ## Overview  
 This portfolio is the latest iteration of my personal website, designed to better showcase my skills, projects, and achievements in data analysis, web development, and creative design. It features a brand-new layout, improved interactivity, and a seamless user experience. This project reflects my growth as a developer and incorporates modern design principles and advanced functionalities.  
